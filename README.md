@@ -12,10 +12,10 @@
 
 Đặc Vụ Bot
 ```json
-Release Version: 7.2.7
-Beta: 1008
-Alpha: false
-Description: ' Update DiscordJSv13, Shard, Missing Permission'
+Release Version: "7.2.7"
+Beta: "1008"
+Alpha: "false"
+Description: "Update DiscordJSv13, Shard, Missing Permission"
 ```
 # Programming languages
 
