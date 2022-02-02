@@ -22,6 +22,6 @@
 
  JS coder
 
-![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HackerShader&theme=tokyonight&layout=compact)
+![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DảkEnderr&theme=tokyonight&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nas007&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkEnderr&show_icons=true&theme=cobalt)
