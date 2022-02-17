@@ -5,7 +5,7 @@
   "Name": "Nas007",
   "Age": 14,
   "Work": "Secondary school student :))",
-  "Mostlang": "NodeJS, Java",
+  "Language": "Javascript, HTML, CSS, Python, Pixe",
   "Email": "zzenderzz07@gmail.com"
 }
 ```
