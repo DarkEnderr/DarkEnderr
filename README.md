@@ -10,13 +10,13 @@
 }
 ```
 
-Đặc Vụ Bot
+# Poro Bot
 ```json
-  "Release Version": "7.3.1"
-  "Beta": "1012"
+  "Release Version": "7.8.7"
+  "Beta": "1047"
   "Alpha": "true"
-  "Description": "Update DiscordJSv13, Shard, Missing Permission",
-  "ISC": "SP-YE-DEV"
+  "Description": "Nope",
+  "ISC": "PI-DA-IS-CC"
 ```
 # Programming languages
 
