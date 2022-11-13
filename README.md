@@ -13,11 +13,11 @@
 
 # Poro Bot
 ```json
-  "Release Version": "7.8.7"
-  "Beta": "1047"
-  "Alpha": "true"
-  "Description": "Nope",
-  "ISC": "PI-DA-IS-CC"
+  "Release Version": "8.0.1"
+  "Beta": "1191"
+  "Alpha": "no longer support"
+  "Description": "End =((",
+  "ISC": "LI-SS-CO-GH"
 ```
 # Programming languages
 
