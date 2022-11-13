@@ -3,7 +3,8 @@
 ```json
 {
   "Name": "Nas007",
-  "Age": unknow,
+  "Age": "15",
+  "Birth": "05/10/2007",
   "Work": "Secondary school student :))",
   "Language": "Javascript, HTML, CSS, Python, Pixe",
   "Email": "zzenderzz07@gmail.com"
