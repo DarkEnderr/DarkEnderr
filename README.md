@@ -41,3 +41,5 @@
 ![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkEnderr&theme=tokyonight&layout=compact)
 
 ![Cup nek](https://github-profile-trophy.vercel.app/?username=DarkEnderr&theme=onedark)
+
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,md,html,css,bootstrap,sass, csharp, typescript,styledcomponents,tailwind,js,nodejs,express,react,figma,firebase,git,github,heroku,mongodb,neovim,netlify,nextjs,ps,powershell,pug,redux,sqlite,stackoverflow,svg,twitter,ts,vercel,vim,vite,vscode,wordpress,xdactions&theme=dark" />
