@@ -1,4 +1,6 @@
 # Infomation
+![](https://discord.com/users/850277508522704896)
+
 
 ```json
 {
