@@ -1,10 +1,6 @@
 # Infomation
 
-<div align="center">
-  <a href="https://discord.com/users/850277508522704896">
-    <img src="https://lanyard.cnrad.dev/api/850277508522704896?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
-  </a>
-</div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/850277508522704896)](https://discord.com/users/850277508522704896)
 
 ```json
 {
