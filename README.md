@@ -22,7 +22,20 @@
 # Programming languages
 
  JS coder
+![](https://komarev.com/ghpvc/?username=hongduc-code-dao)
+![](https://komarev.com/ghpvc/?username=hongduc-code-dao)
 
+
+<div align=center>
+    <img
+        width="396"
+        src="https://streak-stats.demolab.com?user=DarkEnderr&theme=dracula&locale=vi&date_format=j%2Fn%5B%2FY%5D"
+    />
+    <img
+        width="396"
+        src="https://github-readme-stats.vercel.app/api?username=DarkEnderr&show_icons=true&theme=dracula"
+    />
+</div>
 ![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkEnderr&theme=tokyonight&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkEnderr&show_icons=true&theme=cobalt)
