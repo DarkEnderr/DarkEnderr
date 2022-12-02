@@ -28,8 +28,7 @@
 # Programming languages
 
  JS coder
-![](https://komarev.com/ghpvc/?username=hongduc-code-dao)
-![](https://komarev.com/ghpvc/?username=hongduc-code-dao)
+![](https://komarev.com/ghpvc/?username=DarkEnderr)
 
 
 <div align=center>
