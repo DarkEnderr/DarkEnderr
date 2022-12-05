@@ -13,8 +13,19 @@
 }
 ```
 
+# Neon-Gae
+```json
+  "Status": "Online",
+  "Release Version": "1.0.1"
+  "Beta": "1.0.0"
+  "Alpha": "1.0.1"
+  "Description": "Bot Game Basic",
+  "ISC": "LI-SS-CO-GH"
+```
+
 # Poro Bot
 ```json
+  "Status": "Offline",
   "Release Version": "8.0.1"
   "Beta": "no longer support"
   "Alpha": "no longer support"
