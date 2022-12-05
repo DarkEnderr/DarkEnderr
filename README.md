@@ -13,7 +13,7 @@
 }
 ```
 
-# Neon-Gae
+# Neon-Game
 ```json
   "Status": "Online",
   "Release Version": "1.0.1"
