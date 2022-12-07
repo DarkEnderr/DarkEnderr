@@ -37,8 +37,6 @@
 
 
 # Programming languages
-
- JS coder
 ![](https://komarev.com/ghpvc/?username=DarkEnderr)
 
 
