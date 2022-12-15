@@ -37,7 +37,8 @@
 
 
 # Programming languages
-![](https://komarev.com/ghpvc/?username=DarkEnderr)
+![](https://komarev.com/ghpvc/?username=DarkEnderr
+[![](https://visitcount.itsvg.in/api?id=DarkEnderr&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
 <div align=center>
